@@ -1,20 +1,20 @@
 <!DOCTYPE html>
 <html lang="it">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1,0">
-    <title>
-      Lista della spesa
-    </title>
-    <link rel="stylesheet" type="text/css" href="stilelista.css">
-  </head>
-<body>
-  <header class="header">
-    <h1>
-      La mia lista della spesa
-    </h1>
-  </header>
-  <main>
+    <head>
+       <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1,0">
+      <title>
+          della spesa
+      </title>
+      <link rel="stylesheet" type="text/css" href="stile.css">
+    </head>
+    <body>
+      <header class="header">
+      <h1>
+        La mia  della spesa
+      </h1>
+     </header>
+     <main>
     <p>
       Ricordati di comprare la verdura al mercato
     </p>
