@@ -17,13 +17,13 @@
             </a>
         </header>
         <main>
-            <a href="Van Gogh">
+            <a href="artista1">
                 <img src="img/nottestellatasulrodanoVanGogh.jpg" alt="Notte stellata sul rodano"/>
               </a>
-              <a href="Leonardo Da Vinci">
+              <a href="artista2">
                 <img src="img/gioconda.jpg" alt="Monna Lisa di Isleworth"/>
               </a>
-              <a href="Andy Warhol">
+              <a href="artista3">
                 <img src="img/marilynmonroeandywarhol.jpg" alt="Shot Sage Blue Marilyn"/>
               </a>
         </main>
