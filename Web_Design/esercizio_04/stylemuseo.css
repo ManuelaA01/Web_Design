@@ -54,8 +54,8 @@ img {
 }
 .parent-grid {
     display: grid;
-    grid-template-columns: 445px 445px 445px;
-    grid-template-rows: 500px 500px 500px;
+    grid-template-columns: 200px 200px 200px;
+    grid-template-rows: 250px 250px 250px;
 }
 .parent-grid figure {
     margin: 6px 6px 20px 6px;
