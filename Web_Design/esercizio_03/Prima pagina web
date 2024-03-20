@@ -7,7 +7,7 @@
     <link rel="stylesheet" type="text/css" href="paginaweb.css">
   </head>
   <body>
-    <img src="img/The-punisher-logo-png-transparent.png" alt="logo della pagina" height="35px"/>
+    <img class="logo" src="img/The-punisher-logo-png-transparent.png" alt="logo della pagina"/>
     <header class="header">
         <h1>Pagina Web</h1>
     </header>
