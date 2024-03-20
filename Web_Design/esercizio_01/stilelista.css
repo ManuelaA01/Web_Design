@@ -1,6 +1,9 @@
-h1 {
+.header {
   color: red;
 }
 h2 {
   background-color: green;
+}
+.blue {
+  color: blue;
 }

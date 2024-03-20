@@ -12,17 +12,17 @@
   <p>Ricordati di comprare la verdura al mercato</p>
   <ul>
     <li>zucchine</li>
-    <li style="color:blue;">pomodori</li>
+    <li class="blue">pomodori</li>
     <li>pasta</li>
     <li>riso</li>
   </ul>
   <h2>Spesa per strudel di sabato</h2>
   <ol>
-    <li style="color:blue;">cannella</li>
+    <li class="blue">cannella</li>
     <li>pasta sfoglia</li>
     <li>mele</li>
     <li>uova</li>
-    <li style="color:blue;">noci</li>
+    <li class="blue">noci</li>
   </ol>
  </body>
 </html>
