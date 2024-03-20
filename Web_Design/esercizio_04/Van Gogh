@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="it">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>
+            Vincet Van Gogh
+        </title>
+        <link rel="stylesheet" type="text/css" href="stylemuseo.css">
+    </head>
+    <body>
+        <header class="header">
+            <a href="home">
+                <h1>
+                    Vincent Van Gogh
+                </h1>
+            </a>
+        </header>
+        <main>
+            <h2>
+                Vincent Van Gogh
+            </h2>
+            <p>
+                Vincent Willem van Gogh è stato un pittore olandese. Fu autore di quasi novecento dipinti e di più di mille disegni, senza contare i numerosi schizzi non portati a termine e i tanti appunti destinati probabilmente all'imitazione di disegni artistici di provenienza giapponese.<br>Iniziò a disegnare da bambino e nonostante le critiche del padre, un pastore protestante che gli impartiva delle norme severe, continuò a interessarsi all'arte finché non decise di diventare un pittore vero e proprio. Iniziò a dipingere all'età di ventisette anni realizzando molte delle sue opere più note nel corso degli ultimi due anni di vita. I suoi soggetti consistevano in autoritratti, paesaggi, nature morte di fiori, dipinti con cipressi, rappresentazioni di campi di grano e girasoli. La sua formazione si deve all'esempio del realismo paesaggistico dei pittori di Barbizon e del messaggio etico e sociale di Jean-François Millet.
+            </p>
+            <img src="img/nottestellata.jpg" alt="Notte Stellata"/>
+            <img src="img/autoritrattovangogh.jpg" alt="Autoritratto"/>
+            <img src="img/vangogh3.jpg" alt="I mangiatori di patate"/>
+            <img src="img/vangogh4.jpg" alt="Campo di grano con volo di corvi"/>
+            <img src="img/vangogh5.jpg" alt="La Camera di Vincent ad Arles"/>
+            <img src="img/vangogh6.jpg" alt="Terrazza del caffè la sera, Place du Forum, Arles"/>
+            <a href="home">
+                <h3>
+                    Home Page
+                </h3>
+            </a>
+        </main>
+        <footer>
+            Manuela Ardita<br>13.03.2024
+        </footer>
+    </body>

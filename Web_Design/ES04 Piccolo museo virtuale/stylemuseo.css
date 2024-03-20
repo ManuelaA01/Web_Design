@@ -1,0 +1,66 @@
+header {
+    background-color: burlywood;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+}
+main {
+    background-color: oldlace;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+body {
+    background-color: darkslategray;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+footer {
+    color:burlywood;
+    text-align: center;
+    font-size: 15px;
+}
+a {
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+a:hover {
+    color: cadetblue;
+}
+a:active {
+    color:burlywood;
+}
+h2 {
+    color: darkslategray;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+p {
+    text-align: justify;
+    font-size: 20px;
+}
+img {
+    border: 3px solid black;
+    margin: 15px;
+    padding: 3px;
+}
+.flexbox {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+}
+.parent-grid {
+    display: grid;
+    grid-template-columns: 445px 445px 445px;
+    grid-template-rows: 500px 500px 500px;
+}
+.parent-grid figure {
+    margin: 6px 6px 20px 6px;
+}
+.parent-grid img {
+    width: 430px;
+    height: 457px;
+    object-fit: cover;
+}
