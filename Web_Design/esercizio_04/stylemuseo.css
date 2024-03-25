@@ -65,3 +65,19 @@ img {
     height: 457px;
     object-fit: cover;
 }
+.wrapper {
+    display: grid;
+    grid-template-columns: 200px 200px 200px 200px;
+    grid-template-areas: 
+      ". title title ."
+      "story . img img";   
+}
+.box1 {
+    grid-area: title;
+}
+.box2 {
+    grid-area: story;
+}
+.box3 {
+    grid-area: img;
+}
