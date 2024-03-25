@@ -1,0 +1,27 @@
+.header {
+    color: crimson;
+    background-color: beige;
+    text-align: center;
+}
+img {
+    width: 100%;
+    padding: 3px;
+    margin: 15px;
+}
+.flexbox {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+}
+@media screen and (max-width: 600px) {
+    h1 {
+        color: green;
+    }
+}
+@media screen and (max-width: 800px) {
+    img {
+        width: 49%;
+    }
+}
