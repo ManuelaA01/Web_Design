@@ -1,4 +1,15 @@
-#graduale {
-    size: 200px 100px;
-    color: magenta;
+#uno {
+    background-color: magenta;
+    width: 200px;
+    height: 100px;
+    margin: 30px;
+}
+#uno:hover {
+    transform: translateX(50px);
+}
+#loop {
+    background-color: blue;
+    width: 200px;
+    height: 100px;
+    margin: 30px;
 }
