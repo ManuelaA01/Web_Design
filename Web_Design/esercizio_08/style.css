@@ -21,6 +21,7 @@ h1 {
 }
 #image {
     width: 400px;
+    height: auto;
     border: 1px solid black;
     margin: 1px;
 }
