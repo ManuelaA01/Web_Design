@@ -41,3 +41,11 @@ a {
 a:hover {
     color: red
 }
+footer {
+    text-align: center;
+}
+@media (max-width: 800px) {
+    #image {
+        width: 49%;
+    }
+}
