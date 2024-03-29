@@ -20,7 +20,8 @@ h1 {
     align-items: center;
 }
 #image {
-    width: 400px;
+    display: block;
+    max-width: 100%;
     height: auto;
     border: 2px solid red;
     margin: 1px;
